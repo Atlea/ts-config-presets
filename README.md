@@ -6,4 +6,4 @@ All the options are commented so you can understand what they does without havin
 Usage
 =
 
-If you want to use our presets, you simply have to copy all the tsconfig.*.json files from this repo and paste them at the root of your TS project.
+If you want to use our presets, you simply have to copy all the `presets/tsconfig.*.json` files from this repo and paste them at the root of your TS project.
