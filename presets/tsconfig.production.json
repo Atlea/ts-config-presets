@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        /* Generates a sourcemap for each corresponding ‘.d.ts’ file. */
+        "declarationMap": false,
+
+        /* Show diagnostic information. */
+        "diagnostics": false,
+
+        /* Print names of generated files part of the compilation. */
+        "listEmittedFiles": false,
+
+        /* Do not truncate error messages. */
+        "noErrorTruncation": false,
+
+        /* Keep outdated console output in watch mode instead of clearing the screen. */
+        "preserveWatchOutput": false,
+
+        /* Remove all comments except copy-right header comments. */
+        "removeComments": true,
+
+        /* Generates corresponding .map file. */
+        "sourceMap": false,
+
+        /* Report module resolution log messages. */
+        "traceResolution": false,
+    },
+
+    "extends": "./tsconfig.json"
+}
